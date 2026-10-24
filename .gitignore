@@ -27,3 +27,4 @@ outputs/
 
 # Secrets
 .env
+catboost_info/
