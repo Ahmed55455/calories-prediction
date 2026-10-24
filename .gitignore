@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code personal settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saved models and outputs
+*.pkl
+*.joblib
+*.h5
+models/
+outputs/
+
+# Secrets
+.env
